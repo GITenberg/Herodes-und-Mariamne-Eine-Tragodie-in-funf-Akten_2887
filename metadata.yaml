@@ -1,0 +1,33 @@
+_repo: Herodes-und-Mariamne-Eine-Tragodie-in-funf-Akten_2887
+creator:
+  author:
+    agent_name: Hebbel, Friedrich
+    aliases:
+    - Hebbel, Christian Friedrich
+    - Hebbel, F. (Friedrich)
+    - Hebbel, C. F. (Christian Friedrich)
+    birthdate: 1813
+    deathdate: 1863
+    gutenberg_agent_id: '1061'
+    url: http://www.gutenberg.org/2009/agents/1061
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Christian_Friedrich_Hebbel
+    - http://de.wikipedia.org/wiki/Friedrich_Hebbel
+description: ''
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2001-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2887'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Herod I, King of Judea, 73 B.C.-4 B.C. -- Drama'
+- !lcc 'PT'
+- !lcsh 'Mariamne, consort of Herod I, King of Judea, approximately 57 B.C.-approximately
+  29 B.C. -- Drama'
+- !lcsh 'German drama -- 19th century'
+title: 'Herodes und Mariamne: Eine Tragödie in fünf Akten'
+url: http://www.gutenberg.org/ebooks/2887
