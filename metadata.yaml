@@ -1,5 +1,5 @@
 _repo: Herodes-und-Mariamne-Eine-Tragodie-in-funf-Akten_2887
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -35,5 +35,6 @@ subjects:
 - !lcsh 'Mariamne, consort of Herod I, King of Judea, approximately 57 B.C.-approximately
   29 B.C. -- Drama'
 - !lcsh 'German drama -- 19th century'
+- GITenberg
 title: 'Herodes und Mariamne: Eine Tragödie in fünf Akten'
 url: http://www.gutenberg.org/ebooks/2887
